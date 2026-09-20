@@ -31,7 +31,9 @@ I'm currently focused on Python and Web Development, while constantly learning n
 
 📊 GitHub Stats
 
-<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=Erfan752&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" /><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erfan752&layout=compact&theme=github_dark&hide_border=true&langs_count=6" /></div>---
+<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=Erfan752&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" /><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erfan752&layout=compact&theme=github_dark&hide_border=true&langs_count=6" /></div>
+
+---
 
 🔥 GitHub Streak
 
@@ -39,7 +41,9 @@ I'm currently focused on Python and Web Development, while constantly learning n
 
 📈 Contribution Activity
 
-<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Erfan752&theme=github-compact&hide_border=true&area=true" /></div>---
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Erfan752&theme=github-compact&hide_border=true&area=true" /></div>
+
+---
 
 🚀 Currently Learning
 
@@ -61,6 +65,7 @@ Programming| Frontend| Interactivity
 [ ] Build something people actually use
 
 ---
+
 📫 Connect
 
 <div align="center"><a href="https://github.com/Erfan752">
