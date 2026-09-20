@@ -57,15 +57,14 @@ I'm currently improving my fundamentals, building projects, and learning how to 
 
 ---
 
-🎯 Goals
+## 🎯 Goals
 
-[x] Learn Python
-[✓] Learn HTML & CSS
-[✓] Learn JavaScript
-[ ] Build bigger projects
-[ ] Explore advanced Python
-[ ] Contribute to Open Source
-[ ] Build something people actually use
+- [x] Learn Python
+- [x] Learn HTML & CSS
+- [x] Learn JavaScript
+- [ ] Build bigger projects
+- [ ] Learn Git & GitHub
+- [ ] Contribute to Open Source
 
 ---
 
