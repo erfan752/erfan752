@@ -21,9 +21,12 @@ I'm currently focused on Python and Web Development, while constantly learning n
 
 ⚡ Tech Stack
 
-<div align="center"><img src="https://skillicons.dev/icons?i=python,html,css,javascript&theme=dark&perline=4" /><br />"Python"   "HTML"   "CSS"   "JavaScript"
+<div align="center">🐍 Python| 🌐 HTML| 🎨 CSS| ⚡ JavaScript
+<img src="https://skillicons.dev/icons?i=python" width="60" />| <img src="https://skillicons.dev/icons?i=html" width="60" />| <img src="https://skillicons.dev/icons?i=css" width="60" />| <img src="https://skillicons.dev/icons?i=javascript" width="60" />
 
-</div>---
+</div>
+
+---
 
 📊 GitHub Stats
 
