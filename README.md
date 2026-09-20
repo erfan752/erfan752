@@ -6,7 +6,7 @@
   <a href="https://github.com/Erfan752">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p><img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563eb&height=140&section=header"/></div>🧑‍💻 About Me
+</p><img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:000000&height=170&section=header&text=ERFAN752&fontSize=55&fontColor=ffffff&fontAlignY=35"/></div>🧑‍💻 About Me
 
 Hi! I'm Erfan 👋
 
