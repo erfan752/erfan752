@@ -62,8 +62,8 @@ I'm currently improving my fundamentals, building projects, and learning how to 
 - [x] Learn Python
 - [x] Learn HTML & CSS
 - [x] Learn JavaScript
-- [ ] Build bigger projects
-- [ ] Learn Git & GitHub
+- [x] Learn Git & GitHub
+- [x] Create Telegram and Bale Bot
 - [ ] Contribute to Open Source
 
 ---
