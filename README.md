@@ -1,65 +1,71 @@
-<div align="center">👋 Hey, I'm Erfan
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:000000&height=170&section=header&text=ERFAN752&fontSize=55&fontColor=ffffff&fontAlignY=35&animation=twinkling"/>👋 Hey, I'm Erfan
 
 "Python Developer" · "Web Developer" · "Tech Enthusiast"
 
 <p>
   <a href="https://github.com/Erfan752">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p><img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:1d4ed8,50:06b6d4,75:7c3aed,100:020617&height=200&section=header&text=Erf_vF&fontSize=60&fontColor=ffffff&fontAlignY=35&animation=twinkling"/></div>🧑‍💻 About Me
+</p></div>---
 
-Hi! I'm Erfan 👋
+🧑‍💻 About Me
 
-I'm currently learning and building with Python and web technologies.
-I enjoy turning ideas into projects and improving my skills
-by building things from scratch.
+Hey! I'm Erfan, a developer who enjoys turning ideas into real projects.
 
-🚀 Always learning
-💻 Always building
-🧠 Always improving
+I'm currently focused on Python and Web Development, while constantly learning new technologies and improving my programming skills.
+
+🚀 Build
+🧠 Learn
+💻 Experiment
+⚡ Improve
 
 ---
 
-⚡ My Tech Stack
+⚡ Tech Stack
 
-<div align="center">🐍 Python| 🌐 HTML| 🎨 CSS| ⚡ JavaScript
-<img src="https://skillicons.dev/icons?i=python" width="70">| <img src="https://skillicons.dev/icons?i=html" width="70">| <img src="https://skillicons.dev/icons?i=css" width="70">| <img src="https://skillicons.dev/icons?i=javascript" width="70">
+<div align="center"><img src="https://skillicons.dev/icons?i=python,html,css,javascript&theme=dark&perline=4"/></div><div align="center">"Python"   "HTML"   "CSS"   "JavaScript"
 
 </div>---
 
-🛠️ Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,javascript" />
-</p>---
-
 📊 GitHub Stats
 
-<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=Erfan752&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erfan752&layout=compact&theme=github_dark&hide_border=true"/></div>---
+<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=Erfan752&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github"/><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erfan752&layout=compact&theme=github_dark&hide_border=true&langs_count=6"/></div>---
 
-📈 Contribution Graph
+🔥 GitHub Streak
 
-<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Erfan752&theme=github-compact&hide_border=true&area=true"/></div>---
+<div align="center"><img src="https://streak-stats.demolab.com?user=Erfan752&theme=github-dark-blue&hide_border=true"/></div>---
 
-🚀 What I'm Learning
+📈 Contribution Activity
 
-- 🐍 Python
-- 🌐 HTML
-- 🎨 CSS
-- ⚡ JavaScript
-- 🧠 Programming & Problem Solving
-- 🚀 Building real-world projects
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Erfan752&theme=github-compact&hide_border=true&area=true&custom_title=Erfan's%20Contribution%20Graph"/></div>---
+
+🚀 Currently Learning
+
+<div align="center">🐍 Python| 🌐 Web Development| ⚡ JavaScript
+Programming| Frontend| Interactivity
+
+</div>I'm currently working on improving my fundamentals, building projects, and learning how to turn ideas into useful software.
 
 ---
 
-📫 Connect With Me
+🎯 Goals
+
+[✓] Learn Python
+[✓] Learn HTML & CSS
+[✓] Learn JavaScript
+[ ] Build bigger projects
+[ ] Explore advanced Python
+[ ] Contribute to Open Source
+[ ] Build something people actually use
+
+---
+
+📫 Connect
 
 <div align="center"><a href="https://github.com/Erfan752">
-<img src="https://img.shields.io/badge/GitHub-Erfan752-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Erfan752-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a></div>---
 
 <div align="center">"Code • Learn • Build • Repeat"
 
-⭐ Thanks for visiting my profile!
-
-</div>
+<br><img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:000000&height=100&section=footer"/></div>
