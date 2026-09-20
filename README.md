@@ -66,6 +66,8 @@ I'm currently improving my fundamentals, building projects, and learning how to 
 - [x] Create Telegram and Bale Bot
 - [x] Create Open cource Website
 - [ ] Contribute to Open Source
+- [ ] Learn JavaScript frameworks
+- [ ] Become a full-stack web developer
 
 ---
 
