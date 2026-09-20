@@ -19,12 +19,11 @@ I'm currently focused on Python and Web Development, while constantly learning n
 
 ---
 
-⚡ Tech Stack
+## ⚡ Tech Stack
 
-<div align="center">🐍 Python| 🌐 HTML| 🎨 CSS| ⚡ JavaScript
-<img src="https://skillicons.dev/icons?i=python" width="60" />| <img src="https://skillicons.dev/icons?i=html" width="60" />| <img src="https://skillicons.dev/icons?i=css" width="60" />| <img src="https://skillicons.dev/icons?i=javascript" width="60" />
-
-</div>
+| Python | HTML | CSS | JavaScript |
+|:------:|:----:|:---:|:----------:|
+| <img src="https://skillicons.dev/icons?i=python" width="60"> | <img src="https://skillicons.dev/icons?i=html" width="60"> | <img src="https://skillicons.dev/icons?i=css" width="60"> | <img src="https://skillicons.dev/icons?i=javascript" width="60"> |
 
 ---
 
