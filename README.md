@@ -57,13 +57,11 @@ Programming| Frontend| Interactivity
 [ ] Build something people actually use
 
 ---
-
 📫 Connect
 
 <div align="center"><a href="https://github.com/Erfan752">
   <img src="https://img.shields.io/badge/GitHub-Erfan752-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a></div>---
-
-<div align="center">"Code • Learn • Build • Repeat"
-
+</a><a href="https://t.me/erf_vf">
+  <img src="https://img.shields.io/badge/Telegram-@erf__vf-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
+</a></div>
 <br /><img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:000000&height=100&section=footer" /></div>
