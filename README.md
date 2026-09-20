@@ -48,9 +48,9 @@ I'm currently focused on Python and Web Development, while constantly learning n
 🚀 Currently Learning
 
 <div align="center">🐍 Python| 🌐 Web Development| ⚡ JavaScript
-Programming| Frontend| Interactivity
+Programming| Frontend| Interactivity</div>
 
-</div>I'm currently improving my fundamentals, building projects, and learning how to turn ideas into useful software.
+I'm currently improving my fundamentals, building projects, and learning how to turn ideas into useful software.
 
 ---
 
