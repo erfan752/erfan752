@@ -59,7 +59,7 @@ I'm currently improving my fundamentals, building projects, and learning how to 
 
 🎯 Goals
 
-[✓] Learn Python
+[x] Learn Python
 [✓] Learn HTML & CSS
 [✓] Learn JavaScript
 [ ] Build bigger projects
