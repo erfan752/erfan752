@@ -38,7 +38,9 @@ I'm currently focused on Python and Web Development, while constantly learning n
 
 🔥 GitHub Streak
 
-<div align="center"><img src="https://streak-stats.demolab.com?user=Erfan752&theme=github-dark-blue&hide_border=true" /></div>---
+<div align="center"><img src="https://streak-stats.demolab.com?user=Erfan752&theme=github-dark-blue&hide_border=true" /></div>
+
+---
 
 📈 Contribution Activity
 
